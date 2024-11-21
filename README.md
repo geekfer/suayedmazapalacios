@@ -1,4 +1,21 @@
+# Unidad  7 Actividad complementaria 2 Proyecto final 
+# Maza Palacios Fernando
+
+## Nuevas tecnologias
+
+
+a) Descarga el proyecto del API que se encuentra en GitHub. En el foro se indicará la
+dirección de GitHub.
+b) Completa los endpoints que faltan.
+c) Ejecuta el proyecto.
+d) Crea un repositorio en GitHub y sube tus cambios.
+e) En un documento en PDF, anexa las capturas de pantalla del proyecto y el enlace a tu
+repositorio. Sube este archivo a la plataforma.
+
+
+
 # Unidad 5 actividad complementaria
+
 ### 1) Instalación de Java y Maven
 En Windows 10/11 deberás instalar Java 20, 21 y Maven
 Nota, en las imágenes de esta guía, la version de Java es la 15.
